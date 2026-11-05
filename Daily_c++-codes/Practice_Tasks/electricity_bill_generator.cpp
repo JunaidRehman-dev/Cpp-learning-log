@@ -1,10 +1,3 @@
-//Name: Junaid Rehman
-//roll_number: i263106
-//section: SE-C
-//Assignment 2 ---- Question 1
-
-
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
